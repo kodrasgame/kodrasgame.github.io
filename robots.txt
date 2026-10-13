@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /dotpack/admin.html
-
-Sitemap: https://kodras.jp/dotpack/sitemap.xml
+Allow: /
